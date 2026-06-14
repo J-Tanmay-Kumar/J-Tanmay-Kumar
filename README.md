@@ -52,9 +52,14 @@ const tanmay = {
   <img src="https://media.giphy.com/media/3o72FfM5HJydzafgUE/giphy.gif" width="40">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanmaykumar0905&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tanmaykumar0905&theme=tokyonight&hide_border=true)](https://github.com/tanmaykumar0905)
+
+</div>
+
+
 <!-- Wave Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
