@@ -46,7 +46,7 @@ const tanmay = {
 ```
 
 <br clear="right"/>
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/3o72FfM5HJydzafgUE/giphy.gif" width="40">
   <b>GitHub Streak</b>
   <img src="https://media.giphy.com/media/3o72FfM5HJydzafgUE/giphy.gif" width="40">
@@ -57,7 +57,7 @@ const tanmay = {
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tanmaykumar0905&theme=tokyonight&hide_border=true)](https://github.com/tanmaykumar0905)
 
-</div>
+</div> -->
 
 
 <!-- Wave Line -->
