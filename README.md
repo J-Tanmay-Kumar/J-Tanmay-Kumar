@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,100:111111&height=220&section=header&text=Tanmay%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<h1>🏎️ Formula 1 Inspired Developer</h1>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=700&lines=Engineering+Student;Full+Stack+Developer;Java+%7C+DSA+Enthusiast;React+Developer;Building+One+Project+At+A+Time" />
 
 *"Success isn't one fast lap. It's consistently setting faster lap times."*
@@ -90,19 +88,6 @@ const tanmay = {
 🏎️ Maintaining GitHub consistency
 
 🏎️ Preparing for Software Engineering roles
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=J-Tanmay-Kumar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Tanmay-Kumar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 # 🔥 GitHub Streak
