@@ -1,126 +1,168 @@
-<div align="center">
+# <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Tanmaykumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,100:111111&height=220&section=header&text=Tanmay%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;LeetCode+Enthusiast+%F0%9F%8E%AF;MERN+Stack+Developer+%E2%9A%A1;System+Design+Explorer+%F0%9F%8C%90;" alt="Typing SVG" />
+<h1>🏎️ Formula 1 Inspired Developer</h1>
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=700&lines=Engineering+Student;Full+Stack+Developer;Java+%7C+DSA+Enthusiast;React+Developer;Building+One+Project+At+A+Time" />
 
-<!-- Social Links with Glowing Effect -->
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__x.tanmay__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-kumar-746774292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanmaykumar9274@email.com) 
-
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+*"Success isn't one fast lap. It's consistently setting faster lap times."*
 
 </div>
 
-<!-- About Me Section -->
+---
 
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+# 🏁 About Me
 
 ```javascript
 const tanmay = {
-    pronouns: "He/Him",
+    name: "Tanmay Kumar",
     location: "India 🇮🇳",
-    currentFocus: "MERN stack",
-    learning: ["MERN Stack", "System Design"],
-    interests: ["Problem Solving", "Web Development", "AI/ML"],
-    motto: "One commit at a time, one step closer to my goals. 🚀",
-    
-    lifeLoop: function() {
-        while(alive) {
-            eat();
+
+    currentMission: "Become a Skilled Full Stack Developer",
+
+    learning: [
+        "Java DSA",
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+    ],
+
+    currentProjects: [
+        "JavaScript Projects",
+        "React Applications",
+        "Portfolio Building"
+    ],
+
+    motto: "Every commit is another lap completed.",
+
+    raceDay() {
+        while (!goalAchieved) {
             learn();
-            code();
-            solve();
-            repeat();
+            build();
+            debug();
+            commit();
+            improve();
         }
     }
 };
 ```
 
-<br clear="right"/>
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/3o72FfM5HJydzafgUE/giphy.gif" width="40">
-  <b>GitHub Streak</b>
-  <img src="https://media.giphy.com/media/3o72FfM5HJydzafgUE/giphy.gif" width="40">
+---
+
+# 🏎️ Tech Garage
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,c,python"/>
 </p>
 
+### ⚡ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
+</p>
+
+### 🚀 Backend (Learning)
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+---
+
+# 🏆 Current Focus
+
+🏎️ Solving DSA problems in Java
+
+🏎️ Building Full Stack Projects
+
+🏎️ Learning System Design fundamentals
+
+🏎️ Maintaining GitHub consistency
+
+🏎️ Preparing for Software Engineering roles
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=J-Tanmay-Kumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Tanmay-Kumar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=J-Tanmay-Kumar&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=J-Tanmay-Kumar&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏁 My Development Philosophy
+
+> **"Championships aren't won in one race. They're won through consistency, discipline, and continuous improvement."**
+
+I approach software development the same way a Formula 1 team approaches a season:
+
+* 🏎️ Build consistently.
+* 🔧 Refactor continuously.
+* 📚 Learn from every mistake.
+* 🚀 Improve one project at a time.
+* 🏁 Never stop chasing the next personal best.
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/in/tanmay-kumar-746774292">
+<img src="https://img.shields.io/badge/LinkedIn-E10600?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tanmaykumar9274@email.com">
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/__x.tanmay__">
+<img src="https://img.shields.io/badge/Instagram-E10600?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tanmaykumar0905&theme=tokyonight&hide_border=true)](https://github.com/tanmaykumar0905)
+### 🏁 Pace. Precision. Progress.
 
-</div> -->
-
-
-<!-- Wave Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Tech Stack with Icons -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
-  Tech Arsenal
-</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-#### 🎨 Frontend Magic
-<div align="center">  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</div>
-
-#### ⚙️ Backend Power
-<div align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-</div>
-
-</td>
-<td valign="top" width="50%">
-
-#### 🗄️ Database & Cloud
-<div align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-
-#### 💻 Languages & Tools
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</div>
-
-</td>
-</tr>
-</table>
+**Thanks for visiting my pit lane. See you at the finish line! 🏎️**
 
 </div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- GitHub Stats Section -->
