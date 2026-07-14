@@ -21,7 +21,7 @@ const tanmay = {
   driver: "Tanmay Kumar",
   team: "Independent — Self-Built Garage 🇮🇳",
   car: "React + Node.js + Express + MongoDB",
-  currentSeason: "3rd Year B.Tech (Graduating May 2027)",
+  currentSeason: "4th Year B.Tech (Graduating May 2027)",
 
   telemetry: {
     languages: ["Java", "JavaScript", "HTML", "CSS", "C", "Python"],
